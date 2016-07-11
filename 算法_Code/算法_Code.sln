@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2_插入排序", "2-2_插
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3_希尔排序", "2-3_希尔排序\2-3_希尔排序.csproj", "{BF278473-54F4-4F5F-B039-A806D457EC81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4_归并排序", "2-4_归并排序\2-4_归并排序.csproj", "{4C99880C-D6C2-4D80-A690-0413368FE207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF278473-54F4-4F5F-B039-A806D457EC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF278473-54F4-4F5F-B039-A806D457EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF278473-54F4-4F5F-B039-A806D457EC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C99880C-D6C2-4D80-A690-0413368FE207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C99880C-D6C2-4D80-A690-0413368FE207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C99880C-D6C2-4D80-A690-0413368FE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C99880C-D6C2-4D80-A690-0413368FE207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
