@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1_选择排序", "2-1_选
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2_插入排序", "2-2_插入排序\2-2_插入排序.csproj", "{9DBC9F39-6FC1-4DE3-ACED-5A3439D90E28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3_希尔排序", "2-3_希尔排序\2-3_希尔排序.csproj", "{BF278473-54F4-4F5F-B039-A806D457EC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9DBC9F39-6FC1-4DE3-ACED-5A3439D90E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DBC9F39-6FC1-4DE3-ACED-5A3439D90E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DBC9F39-6FC1-4DE3-ACED-5A3439D90E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF278473-54F4-4F5F-B039-A806D457EC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF278473-54F4-4F5F-B039-A806D457EC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF278473-54F4-4F5F-B039-A806D457EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF278473-54F4-4F5F-B039-A806D457EC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
